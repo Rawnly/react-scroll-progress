@@ -1,6 +1,6 @@
 # Scroll Progress
 
-## Installation
+## Installation
 
 ```sh
 	yarn add react-scroll-progress
